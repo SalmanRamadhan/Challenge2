@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Challenge4</string>
+    <string name="string_pemain_1">Pemain 1</string>
+    <string name="string_com">COM</string>
+    <string name="string_vs">VS</string>
+    <string name="string_batu">Batu</string>
+    <string name="string_kertas">Kertas</string>
+    <string name="string_gunting">Gunting</string>
+    <string name="string_refresh">Refresh</string>
+    <string name="string_draw">Draw</string>
+    <string name="string_com_menang">Com MENANG!</string>
+    <string name="string_pemain_1_menang">Pemain 1 MENANG!</string>
+</resources>
